@@ -14,17 +14,19 @@ In this tutorial, you learn the following tasks:
 * Test the deployed model using the HTTP web service end point
 
 
-Before you can run this experiment, you need to first do the following:
+## To run on a Cloud-based Nookbook VM
+
+Here are the following theses you need to follow:
 1. Clone this github repository
-2. [Create an Azure Machine Learning service workspace](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-manage-workspace)
+2. Create an [Azure Machine Learning service workspace](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-manage-workspace)
 3. Create a cloud notebook server in your workspace.
-⋅⋅a. [Sign in to Azure Machine Learning studio.](https://ml.azure.com/)
-⋅⋅b. Select your subscription and the workspace you created.
-⋅⋅c. On in the ML studio, select Compute on the left.
-⋅⋅d  Select +New to create a notebook VM.
-⋅⋅e  Provide a name and select configuration for your VM. Then click Create.
-⋅⋅f	 Provide a name for your VM. Then select Create.
-⋅⋅g	Wait until the status changes to Running
-⋅⋅h Select Notebooks on the left.
-⋅⋅i On the Notebooks page, click on the "Upload files" icon to upload this jupyter notebook file
+   1. [Sign in to Azure Machine Learning studio.](https://ml.azure.com/)
+   2. Select your subscription and the workspace you created.
+   3. Once on the ML studio page, select **Compute** on the left.
+   4. Select **+New** to create a notebook VM.
+   5. Provide a name and select configuration for your VM. Then click **Create**.
+   6. Wait until the status changes to **Running**
+4 Select **Notebooks** on the left.
+5. On the Notebooks page, click on the *Upload files* (the up arrow) icon to upload the **demo-diabetes-experiment-sdk-train.ipynb** file from the github repository   
+
 
