@@ -15,5 +15,16 @@ In this tutorial, you learn the following tasks:
 
 
 Before you can run this experiment, you need to first do the following:
-1. Create an Azure Machine Learning service workspace
-2. Create a cloud notebook server in your workspace.
+1. Clone this github repository
+2. [Create an Azure Machine Learning service workspace](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-manage-workspace)
+3. Create a cloud notebook server in your workspace.
+⋅⋅a. [Sign in to Azure Machine Learning studio.](https://ml.azure.com/)
+⋅⋅b. Select your subscription and the workspace you created.
+⋅⋅c. On in the ML studio, select Compute on the left.
+⋅⋅d  Select +New to create a notebook VM.
+⋅⋅e  Provide a name and select configuration for your VM. Then click Create.
+⋅⋅f	 Provide a name for your VM. Then select Create.
+⋅⋅g	Wait until the status changes to Running
+⋅⋅h Select Notebooks on the left.
+⋅⋅i On the Notebooks page, click on the "Upload files" icon to upload this jupyter notebook file
+
