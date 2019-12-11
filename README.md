@@ -28,6 +28,6 @@ Here are the following steps you need to take:
    6. Wait until the status changes to **Running**
 4 Select **Notebooks** on the left.
 5. On the Notebooks page, click on the *Upload files* (the up arrow) icon to upload the **demo-diabetes-experiment-sdk-train.ipynb** file from the github repository
-6. Execute the Jupyter notebook script by either clicking on the **Run** link on the run Notebook server page, or Click on the **...** link to open in Jupyter and run the script.
+6. Execute the Jupyter notebook script by either clicking on the **Run** link on the run Notebook server page, or Click on the **[...]** link to open in Jupyter and run the script.
 
 
